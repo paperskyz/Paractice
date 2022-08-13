@@ -1,0 +1,67 @@
+[
+{"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"mwhrskay_Health415"},
+{"type":"table","name":"admins","database":"mwhrskay_Health415","data":
+[
+{"first_name":"Mohammed","last_name":"Al-Shalchy","username":"blake1@gmail.com","password":"du9UhfbJU6%W+Y{P"}
+]
+}
+,{"type":"table","name":"products","database":"mwhrskay_Health415","data":
+[
+{"product_name":"1Product","product_price":"5","product_quantity":"5","product_id":"1","product_image":"https:\/\/images.unsplash.com\/photo-1584362917165-526a968579e8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2164&q=80","product_desc":"1Product cool","product_category":"category1"},
+{"product_name":"2Product","product_price":"3","product_quantity":"10","product_id":"2","product_image":"https:\/\/images.unsplash.com\/photo-1584308666744-24d5c474f2ae?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1915&q=80","product_desc":"2Product cool","product_category":"category1"},
+{"product_name":"3Product","product_price":"4","product_quantity":"14","product_id":"3","product_image":"https:\/\/images.unsplash.com\/photo-1607619056574-7b8d3ee536b2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2220&q=80","product_desc":"3Product cool","product_category":"category1"},
+{"product_name":"4Product","product_price":"10","product_quantity":"4","product_id":"4","product_image":"https:\/\/images.unsplash.com\/photo-1581159186721-b68b78da4ec9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80","product_desc":"4Product cool","product_category":"category1"},
+{"product_name":"5Product","product_price":"20","product_quantity":"4","product_id":"5","product_image":"https:\/\/images.unsplash.com\/photo-1555633514-abcee6ab92e1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1400&q=80","product_desc":"5Product cool","product_category":"category1"},
+{"product_name":"6Product","product_price":"10","product_quantity":"2","product_id":"6","product_image":"https:\/\/images.unsplash.com\/photo-1562243061-204550d8a2c9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80","product_desc":"6Product cool","product_category":"category2"},
+{"product_name":"7Product","product_price":"15","product_quantity":"3","product_id":"7","product_image":"https:\/\/images.unsplash.com\/photo-1573883431205-98b5f10aaedb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80","product_desc":"7Product cool","product_category":"category2"},
+{"product_name":"8Product","product_price":"2","product_quantity":"20","product_id":"8","product_image":"https:\/\/images.unsplash.com\/photo-1512069772995-ec65ed45afd6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1277&q=80","product_desc":"8Product cool","product_category":"category2"},
+{"product_name":"9Product","product_price":"4","product_quantity":"10","product_id":"9","product_image":"https:\/\/images.unsplash.com\/photo-1577563782818-f7067373326c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2955&q=80","product_desc":"9Product cool","product_category":"category2"},
+{"product_name":"10Product","product_price":"1","product_quantity":"15","product_id":"10","product_image":"https:\/\/images.unsplash.com\/photo-1471864190281-a93a3070b6de?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80","product_desc":"10Product cool","product_category":"category2"},
+{"product_name":"11Product","product_price":"4","product_quantity":"9","product_id":"11","product_image":"https:\/\/images.unsplash.com\/photo-1523243319451-54b60322f948?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80","product_desc":"11Product cool","product_category":"category3"},
+{"product_name":"12Product","product_price":"5","product_quantity":"10","product_id":"12","product_image":"https:\/\/images.unsplash.com\/photo-1583088580067-16d1109aeacb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1535&q=80","product_desc":"12Product cool","product_category":"category3"},
+{"product_name":"13Product","product_price":"5","product_quantity":"7","product_id":"13","product_image":"https:\/\/images.unsplash.com\/photo-1584017911766-d451b3d0e843?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80","product_desc":"13Product cool","product_category":"category3"},
+{"product_name":"14Product","product_price":"3","product_quantity":"8","product_id":"14","product_image":"https:\/\/images.unsplash.com\/photo-1543709533-c032159da7b0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80","product_desc":"14Product cool","product_category":"category3"},
+{"product_name":"15Product","product_price":"10","product_quantity":"3","product_id":"15","product_image":"https:\/\/images.unsplash.com\/photo-1523245332310-ff40ff34a419?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80","product_desc":"15Product cool","product_category":"category3"},
+{"product_name":"16Product","product_price":"7","product_quantity":"8","product_id":"16","product_image":"https:\/\/images.unsplash.com\/photo-1584308878768-57d3387b1882?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1960&q=80","product_desc":"16Product cool","product_category":"category4"},
+{"product_name":"17Product","product_price":"3","product_quantity":"6","product_id":"17","product_image":"https:\/\/images.unsplash.com\/photo-1612869746134-bd7f98a33812?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80","product_desc":"17Product cool","product_category":"category4"},
+{"product_name":"18Product","product_price":"10","product_quantity":"7","product_id":"18","product_image":"https:\/\/images.unsplash.com\/photo-1610542443439-279b81fba808?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1296&q=80","product_desc":"18Product cool","product_category":"category4"},
+{"product_name":"19Product","product_price":"5","product_quantity":"6","product_id":"19","product_image":"https:\/\/images.unsplash.com\/photo-1544991936-9464fa9919d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80","product_desc":"19Product cool","product_category":"category4"},
+{"product_name":"20Product","product_price":"4","product_quantity":"8","product_id":"20","product_image":"https:\/\/images.unsplash.com\/photo-1565071783280-719b01b29912?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80","product_desc":"20Product cool","product_category":"category5"},
+{"product_name":"21Product","product_price":"8","product_quantity":"3","product_id":"21","product_image":"https:\/\/images.unsplash.com\/photo-1573207185685-5109f337fdf6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzJ8fG1lZGljaW5lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60","product_desc":"21Product cool","product_category":"category5"},
+{"product_name":"22Product","product_price":"1","product_quantity":"10","product_id":"22","product_image":"https:\/\/images.unsplash.com\/photo-1558956397-24d60741abc2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80","product_desc":"22Product cool","product_category":"category5"},
+{"product_name":"23Product","product_price":"5","product_quantity":"5","product_id":"23","product_image":"https:\/\/images.unsplash.com\/photo-1544829885-9a58b457fd5a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80","product_desc":"23Product cool","product_category":"category5"},
+{"product_name":"24Product","product_price":"3","product_quantity":"10","product_id":"24","product_image":"https:\/\/images.unsplash.com\/photo-1584017911766-d451b3d0e843?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80","product_desc":"24Product cool","product_category":"category5"},
+{"product_name":"25product","product_price":"9","product_quantity":"6","product_id":"25","product_image":"https:\/\/images.unsplash.com\/photo-1563213126-a4273aed2016?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80","product_desc":"25Product cool","product_category":"category5"},
+{"product_name":"26Product","product_price":"4","product_quantity":"9","product_id":"26","product_image":"https:\/\/images.unsplash.com\/photo-1576073218292-976931ec70ca?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1265&q=80","product_desc":"26Product cool","product_category":"category6"},
+{"product_name":"27Product","product_price":"10","product_quantity":"11","product_id":"27","product_image":"https:\/\/images.unsplash.com\/photo-1558956397-1826756a58dd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80","product_desc":"27Product cool","product_category":"category6"},
+{"product_name":"28Product","product_price":"5","product_quantity":"17","product_id":"28","product_image":"https:\/\/images.unsplash.com\/photo-1587370560942-ad2a04eabb6d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80","product_desc":"28Product cool","product_category":"category6"},
+{"product_name":"29Product","product_price":"10","product_quantity":"30","product_id":"29","product_image":"https:\/\/images.unsplash.com\/photo-1544965367-91d108669d2d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80","product_desc":"29Product cool","product_category":"category6"},
+{"product_name":"30Product","product_price":"5","product_quantity":"30","product_id":"30","product_image":"https:\/\/images.unsplash.com\/photo-1567333971983-7ba18485eaad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1267&q=80","product_desc":"30Product cool","product_category":"category6"},
+{"product_name":"changed","product_price":"200","product_quantity":"200","product_id":"100","product_image":"changed","product_desc":"changed","product_category":"changed"}
+]
+}
+,{"type":"table","name":"receipt","database":"mwhrskay_Health415","data":
+[
+{"username":"kiddo123@gmail.com","order_number":"4280","total":"6","shipment_status":"ready","cancel_request":"no"},
+{"username":"kiddo123@gmail.com","order_number":"27655","total":"6","shipment_status":"ready","cancel_request":"yes"},
+{"username":"momo@gmail.com","order_number":"16120","total":"20","shipment_status":"shipped","cancel_request":"yes"},
+{"username":"MomoMomo","order_number":"14035","total":"15","shipment_status":"ready","cancel_request":""},
+{"username":"momo@gmail.com","order_number":"31824","total":"3","shipment_status":"cancelled","cancel_request":"yes"},
+{"username":"MomoMomo","order_number":"32020","total":"3","shipment_status":"ready","cancel_request":"no"},
+{"username":"demo@gmail.com","order_number":"15900","total":"20","shipment_status":"cancelled","cancel_request":"yes"}
+]
+}
+,{"type":"table","name":"users","database":"mwhrskay_Health415","data":
+[
+{"first_name":"Mohammed","last_name":"Al-Shalchy","username":"momo@gmail.com","password":"$2y$10$6HQBUh0AhOpr5qzLgPRtWu9qaxozPSXnqhFUq9rqQJBete0191y1u"},
+{"first_name":"test","last_name":"demo","username":"demo@gmail.com","password":"$2y$10$TCYkLUXziD59tp9M7FvX7uPKUl6fJg7ldkv9VVVObVeqDecf42Hou"},
+{"first_name":"Mohammed","last_name":"Al-Shalchy","username":"Alshalchy@gmail.com","password":"$2y$10$DvJ5YaQh.r3SjzaR0du4JOP\/ERv25yad7IyK3lSZuUl4yKcHGFvsm"},
+{"first_name":"hello","last_name":"cool","username":"kiddo123@gmail.com","password":"$2y$10$iP3UtRmRs0HK0z19KWAy0OQuLAs0Nr1DZZUwTTC3YHrBjGqH0DB.O"},
+{"first_name":"Mohammed","last_name":"test","username":"MomoMomo","password":"$2y$10$lTebdwrXbfSDDgboimxlvelzyFBKX.nP3MzQB61jVZ.cQ.COdPWKa"},
+{"first_name":"Bryan","last_name":"Vincello","username":"bryan@gmail.com","password":"$2y$10$XjSn7QoR38vm9r\/S7xYp\/.Z9QxdqOKjkNhq0oUw14gAi7cqhK1qT."},
+{"first_name":"Britnie","last_name":"Moodie","username":"coolkid@gmail.com","password":"$2y$10$VUlL..Y6oYtZOmGdEaPBmex0bi8N19G3UX8\/9xo.swr67L40EmQ4O"},
+{"first_name":"Edwin","last_name":"Edwin","username":"Edwin@gmail.com","password":"$2y$10$Q5Q6xcHK4qNva9abw4n9Pu8vcEhX9zUAP\/O0vrWfMEXtroWk0lcTG"}
+]
+}
+]
